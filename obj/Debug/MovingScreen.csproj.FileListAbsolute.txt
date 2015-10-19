@@ -1,0 +1,6 @@
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\bin\Debug\MovingScreen.exe.config
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\bin\Debug\MovingScreen.exe
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\bin\Debug\MovingScreen.pdb
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\obj\Debug\MovingScreen.csprojResolveAssemblyReference.cache
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\obj\Debug\MovingScreen.exe
+c:\users\respec7\documents\visual studio 2015\Projects\MovingScreen\MovingScreen\obj\Debug\MovingScreen.pdb
